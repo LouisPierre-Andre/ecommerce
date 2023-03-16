@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.7b11c584.css",
+    "main.js": "/ecommerce/static/js/main.79c0ea4d.js",
+    "static/js/787.bbe01249.chunk.js": "/ecommerce/static/js/787.bbe01249.chunk.js",
+    "static/media/shooping2.png": "/ecommerce/static/media/shooping2.d81015efa1b2fa5472d3.png",
+    "index.html": "/ecommerce/index.html",
+    "main.7b11c584.css.map": "/ecommerce/static/css/main.7b11c584.css.map",
+    "main.79c0ea4d.js.map": "/ecommerce/static/js/main.79c0ea4d.js.map",
+    "787.bbe01249.chunk.js.map": "/ecommerce/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b11c584.css",
+    "static/js/main.79c0ea4d.js"
+  ]
+}
